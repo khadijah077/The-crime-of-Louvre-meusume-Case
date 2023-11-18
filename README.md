@@ -1,4 +1,4 @@
-# The-crime-of-Louvre-meusume
+# The-crime-of-Louvre-meusume Case
 An investigation case developed using digital forensics techniques and tools and presented to participants to solve it.
 
 **Scenario:**
